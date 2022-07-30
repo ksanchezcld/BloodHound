@@ -59,7 +59,7 @@
     "eventemitter2": "^4.1.0",
     "fontfaceobserver": "^2.0.13",
     "image-size": "^0.6.3",
-    "image-type": "^3.0.0",
+    "image-type": "^5.0.0",
     "is-zip-file": "^1.0.2",
     "jquery": "^3.2.1",
     "linkurious": "^1.5.1",
